@@ -91,7 +91,7 @@ const educationInfo = {
     },
     {
       schoolName: "University of Kent",
-      logo: require("./assets/images/UKentLogo.jpg"),
+      logo: require("./assets/images/KentLogo.jpg"),
       subHeader: "Computer Science (Cyber Security) + a year in the industry",
       duration: "September 2021 - December 2021",
       desc: "Realised it was too similar to the Cambridge A Levels Computer Science 4 year program I already did.",
