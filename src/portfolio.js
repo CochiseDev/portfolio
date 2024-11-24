@@ -111,7 +111,7 @@ const educationInfo = {
 // Your top 3 proficient stacks/tech experience
 
 const techStack = {
-  viewSkillBars: true, //Set it to true to show Proficiency Section
+  viewSkillBars: false, //Set it to true to show Proficiency Section
   experience: [
     {
       Stack: "Game Development (Unity & Unreal)", //Insert stack or technology you have experience in
@@ -234,6 +234,28 @@ const bigProjects = {
         {
           name: "Watch Trailer",
           url: "https://www.youtube.com/watch?v=IhI0H71syTI"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/AbandonedIslandCover.png"),
+      projectName: "Abandoned Island",
+      projectDesc: "Intro cutscene",
+      footerLink: [
+        {
+          name: "Watch Video",
+          url: "https://youtu.be/l8gZIw07O4U"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/StylizedIslandCover.png"),
+      projectName: "Stylized Island",
+      projectDesc: "2 Cutscenes and a playable character/world",
+      footerLink: [
+        {
+          name: "Watch Video",
+          url: "https://youtu.be/ALrW2FcVWfE"
         }
       ]
     }
