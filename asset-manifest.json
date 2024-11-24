@@ -1,11 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.8c950db2.css",
-    "main.js": "/static/js/main.9b61f176.js",
+    "main.js": "/static/js/main.00951892.js",
     "static/css/487.bb36206c.chunk.css": "/static/css/487.bb36206c.chunk.css",
     "static/js/487.8ffd9028.chunk.js": "/static/js/487.8ffd9028.chunk.js",
     "static/css/990.c6a7ee28.chunk.css": "/static/css/990.c6a7ee28.chunk.css",
     "static/js/990.14f5c2cd.chunk.js": "/static/js/990.14f5c2cd.chunk.js",
+    "static/media/AbandonedIslandCover.png": "/static/media/AbandonedIslandCover.a2df9866e2584d8f280d.png",
+    "static/media/StylizedIslandCover.png": "/static/media/StylizedIslandCover.4780018aff3bc996852f.png",
     "static/media/SkythievesLogo.png": "/static/media/SkythievesLogo.ac505f9d7d85fcd94776.png",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
@@ -26,7 +28,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.8c950db2.css.map": "/static/css/main.8c950db2.css.map",
-    "main.9b61f176.js.map": "/static/js/main.9b61f176.js.map",
+    "main.00951892.js.map": "/static/js/main.00951892.js.map",
     "487.bb36206c.chunk.css.map": "/static/css/487.bb36206c.chunk.css.map",
     "487.8ffd9028.chunk.js.map": "/static/js/487.8ffd9028.chunk.js.map",
     "990.c6a7ee28.chunk.css.map": "/static/css/990.c6a7ee28.chunk.css.map",
@@ -34,6 +36,6 @@
   },
   "entrypoints": [
     "static/css/main.8c950db2.css",
-    "static/js/main.9b61f176.js"
+    "static/js/main.00951892.js"
   ]
 }
