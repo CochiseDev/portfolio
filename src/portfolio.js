@@ -185,6 +185,17 @@ const bigProjects = {
   subtitle: "SOME UNIVERSITY PROJECTS AND GAME JAMS",
   projects: [
     {
+      image: require("./assets/images/BandFusionLogo.png"),
+      projectName: "Band Fusion",
+      projectDesc: "Fuse elements. Battle musicians. Build the ultimate band. (GameJam)",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://cochisedev.itch.io/band-fusion"
+        }
+      ]
+    },
+    {
       image: require("./assets/images/GorebeatLogo.png"),
       projectName: "GOREBEAT",
       projectDesc: "Melee Combat Action Rhythm Game",
@@ -313,6 +324,20 @@ const achievementSection = {
         { 
           name: "GameJam Results",
           url: "https://itch.io/jam/uem-dreamjam"
+        }
+      ]
+    },
+
+    {
+      title: "1st Place in the UEM 2025 CreativeJam",
+      subtitle:
+        "From Friday evening until Sunday Morning GameJam. Invited to have our own game stand at the Río de Babel Festival",
+      image: require("./assets/images/CreativeJamLogo.jpeg"),
+      imageAlt: "CreativeJam 2025",
+      footerLink: [
+        { 
+          name: "GameJam Results",
+          url: "https://itch.io/jam/uem-creative-jam"
         }
       ]
     }
