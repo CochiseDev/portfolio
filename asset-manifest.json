@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8c950db2.css",
-    "main.js": "/static/js/main.00951892.js",
+    "main.js": "/static/js/main.b6db7545.js",
     "static/css/487.bb36206c.chunk.css": "/static/css/487.bb36206c.chunk.css",
     "static/js/487.8ffd9028.chunk.js": "/static/js/487.8ffd9028.chunk.js",
     "static/css/990.c6a7ee28.chunk.css": "/static/css/990.c6a7ee28.chunk.css",
@@ -16,11 +16,13 @@
     "static/media/DreamJamLogo.png": "/static/media/DreamJamLogo.cabba4bff25c5470ed33.png",
     "static/media/NatureAppliancesLogo.png": "/static/media/NatureAppliancesLogo.418dbb59439acae338e5.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/CreativeJamLogo.jpeg": "/static/media/CreativeJamLogo.6d8ba7dd030747c9dd32.jpeg",
     "static/media/MICLogo.png": "/static/media/MICLogo.7423abb2a597f50d2f04.png",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/quoraLogo.png": "/static/media/quoraLogo.85eb29f4d52320c8ed99.png",
     "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
     "static/media/iDTechLogo.png": "/static/media/iDTechLogo.c3f5628a3e9335bc0318.png",
+    "static/media/BandFusionLogo.png": "/static/media/BandFusionLogo.d6ae5862d5e7924001a8.png",
     "static/media/airbnbLogo.png": "/static/media/airbnbLogo.e8497507db673acd3991.png",
     "static/media/GameExperienceLALogo.jpg": "/static/media/GameExperienceLALogo.4b800f9125b7700b882c.jpg",
     "static/media/facebookLogo.png": "/static/media/facebookLogo.f46d68b24e9b4f73ee8b.png",
@@ -28,7 +30,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.8c950db2.css.map": "/static/css/main.8c950db2.css.map",
-    "main.00951892.js.map": "/static/js/main.00951892.js.map",
+    "main.b6db7545.js.map": "/static/js/main.b6db7545.js.map",
     "487.bb36206c.chunk.css.map": "/static/css/487.bb36206c.chunk.css.map",
     "487.8ffd9028.chunk.js.map": "/static/js/487.8ffd9028.chunk.js.map",
     "990.c6a7ee28.chunk.css.map": "/static/css/990.c6a7ee28.chunk.css.map",
@@ -36,6 +38,6 @@
   },
   "entrypoints": [
     "static/css/main.8c950db2.css",
-    "static/js/main.00951892.js"
+    "static/js/main.b6db7545.js"
   ]
 }
