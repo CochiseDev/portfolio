@@ -26,7 +26,7 @@ const greeting = {
     "I'm a dedicated Game Developer and Computer Scientist with a passion for making immersive gaming experiences 🚀. With a strong foundation in Unity, Unreal Engine, and programming languages like C#, C++, and Python, I bring ideas to life in the digital world."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1XX0mKherWRqS8vRezgnaQ4hH9Vx_hwua/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1rXiJj9BjMehMSOwjTBf2AQgbD9vs_V8D/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -268,6 +268,22 @@ const bigProjects = {
           name: "Watch Video",
           url: "https://youtu.be/ALrW2FcVWfE"
         }
+      ]
+    },
+    {
+      image: require("./assets/images/Scan'NSlam Logo.png"),
+      projectName: "Scan 'N Slam",
+      projectDesc: "Grocery Store VR Mayhem",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://cochisedev.itch.io/scan-n-slam"
+        },
+        {
+          name: "Watch Trailer",
+          url: "https://youtu.be/0BI1fv7EOx8"
+        }
+        //  you can add extra buttons here.
       ]
     }
   ],
