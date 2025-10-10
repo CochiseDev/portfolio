@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8c950db2.css",
-    "main.js": "/static/js/main.b6db7545.js",
+    "main.js": "/static/js/main.77fb1c6f.js",
     "static/css/487.bb36206c.chunk.css": "/static/css/487.bb36206c.chunk.css",
     "static/js/487.8ffd9028.chunk.js": "/static/js/487.8ffd9028.chunk.js",
     "static/css/990.c6a7ee28.chunk.css": "/static/css/990.c6a7ee28.chunk.css",
@@ -9,9 +9,10 @@
     "static/media/AbandonedIslandCover.png": "/static/media/AbandonedIslandCover.a2df9866e2584d8f280d.png",
     "static/media/StylizedIslandCover.png": "/static/media/StylizedIslandCover.4780018aff3bc996852f.png",
     "static/media/SkythievesLogo.png": "/static/media/SkythievesLogo.ac505f9d7d85fcd94776.png",
+    "static/media/Scan'NSlam Logo.png": "/static/media/Scan'NSlam Logo.7e8df716177782dbe038.png",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/resume.pdf": "/static/media/resume.7d664f38cd9ce8550239.pdf",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
-    "static/media/resume.pdf": "/static/media/resume.7ae744b446f3e6fd19e9.pdf",
     "static/media/WatchOutLogo.png": "/static/media/WatchOutLogo.bc1f30ceac3433019618.png",
     "static/media/DreamJamLogo.png": "/static/media/DreamJamLogo.cabba4bff25c5470ed33.png",
     "static/media/NatureAppliancesLogo.png": "/static/media/NatureAppliancesLogo.418dbb59439acae338e5.png",
@@ -30,7 +31,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.8c950db2.css.map": "/static/css/main.8c950db2.css.map",
-    "main.b6db7545.js.map": "/static/js/main.b6db7545.js.map",
+    "main.77fb1c6f.js.map": "/static/js/main.77fb1c6f.js.map",
     "487.bb36206c.chunk.css.map": "/static/css/487.bb36206c.chunk.css.map",
     "487.8ffd9028.chunk.js.map": "/static/js/487.8ffd9028.chunk.js.map",
     "990.c6a7ee28.chunk.css.map": "/static/css/990.c6a7ee28.chunk.css.map",
@@ -38,6 +39,6 @@
   },
   "entrypoints": [
     "static/css/main.8c950db2.css",
-    "static/js/main.b6db7545.js"
+    "static/js/main.77fb1c6f.js"
   ]
 }
