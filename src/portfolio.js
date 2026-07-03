@@ -47,7 +47,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I Bring to the Table",
-  subTitle: "Passionate Game Developer and Software Engineer",
+  subTitle: "Passionate Game Developer and Software Engineer, aspiring to work as a Technical Game Designer.",
   skills: [
     emoji("🎮 Expert in creating engaging games with Unity and Unreal Engine"),
     emoji("🛠️ Proficient in developing optimized game mechanics and systems using C# and C++"),
@@ -84,6 +84,7 @@ const educationInfo = {
       duration: "February 2022 - Present",
       desc: "Gained comprehensive knowledge of software development, focusing on game creation.",
       descBullets: [
+        "Acquired 8 High Honors",
         "Participated in Game Jams", 
         "Developed 3D multiplayer games independently",
         "Part of the Cyber Security club"
