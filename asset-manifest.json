@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c950db2.css",
-    "main.js": "/static/js/main.8d1e0692.js",
-    "static/css/487.bb36206c.chunk.css": "/static/css/487.bb36206c.chunk.css",
-    "static/js/487.8ffd9028.chunk.js": "/static/js/487.8ffd9028.chunk.js",
-    "static/css/990.c6a7ee28.chunk.css": "/static/css/990.c6a7ee28.chunk.css",
-    "static/js/990.14f5c2cd.chunk.js": "/static/js/990.14f5c2cd.chunk.js",
+    "main.css": "/static/css/main.5512e8cf.css",
+    "main.js": "/static/js/main.7cdc22c6.js",
+    "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.770ac628.chunk.js": "/static/js/64.770ac628.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.dfbba84e.chunk.js": "/static/js/769.dfbba84e.chunk.js",
     "static/media/AbandonedIslandCover.png": "/static/media/AbandonedIslandCover.a2df9866e2584d8f280d.png",
     "static/media/StylizedIslandCover.png": "/static/media/StylizedIslandCover.4780018aff3bc996852f.png",
     "static/media/SkythievesLogo.png": "/static/media/SkythievesLogo.ac505f9d7d85fcd94776.png",
@@ -30,15 +30,15 @@
     "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.8c950db2.css.map": "/static/css/main.8c950db2.css.map",
-    "main.8d1e0692.js.map": "/static/js/main.8d1e0692.js.map",
-    "487.bb36206c.chunk.css.map": "/static/css/487.bb36206c.chunk.css.map",
-    "487.8ffd9028.chunk.js.map": "/static/js/487.8ffd9028.chunk.js.map",
-    "990.c6a7ee28.chunk.css.map": "/static/css/990.c6a7ee28.chunk.css.map",
-    "990.14f5c2cd.chunk.js.map": "/static/js/990.14f5c2cd.chunk.js.map"
+    "main.5512e8cf.css.map": "/static/css/main.5512e8cf.css.map",
+    "main.7cdc22c6.js.map": "/static/js/main.7cdc22c6.js.map",
+    "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
+    "64.770ac628.chunk.js.map": "/static/js/64.770ac628.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
+    "769.dfbba84e.chunk.js.map": "/static/js/769.dfbba84e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c950db2.css",
-    "static/js/main.8d1e0692.js"
+    "static/css/main.5512e8cf.css",
+    "static/js/main.7cdc22c6.js"
   ]
 }
